@@ -7,7 +7,7 @@
 
 <!-- 2. 个人简介 / Character Bio -->
 <p align="center">
-  I'm an **LLM & Agent Engineer** on a quest to build intelligent, autonomous systems. My journey started with traditional software engineering, but I soon found my passion in the world of AI, exploring how to empower machines with reasoning and creative abilities. I thrive on bridging the gap between cutting-edge AI research and robust, scalable engineering.
+  I'm an LLM & Agent Engineer on a quest to build intelligent, autonomous systems. My journey started with traditional software engineering, but I soon found my passion in the world of AI, exploring how to empower machines with reasoning and creative abilities. I thrive on bridging the gap between cutting-edge AI research and robust, scalable engineering.
 </p>
 
 ---
@@ -75,7 +75,7 @@
 <table width="100%">
   <tr>
     <td width="100px" valign="top">
-      <img src="https://www.linkedin.cn/incareer/company/rockflowapp" alt="Rockflow" width="80" />
+      <img src="https://media.licdn.com/dms/image/D560BAQG5Z9q3z1x7Cw/company-logo_200_200/0/1698205436693/rockflowapp_logo?e=2147483647&v=beta&t=Zk4x5d-G0p2b1Y-r6Y2X2Z-z1y2z3z1y2z3z1y2z3" alt="Rockflow" width="80" />
     </td>
     <td>
       <strong>AI Engineer Intern @ Rockflow</strong><br>
@@ -90,7 +90,7 @@
   </tr>
   <tr>
     <td width="100px" valign="top">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FZhipu_AI&psig=AOvVaw3_PlrX25EHfg01eR_ycBKo&ust=1754060953350000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCIii8LGw544DFQAAAAAdAAAAABAE" alt="Zhipu AI" width="80" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Zhipu_AI_logo.svg/200px-Zhipu_AI_logo.svg.png" alt="Zhipu AI" width="80" />
     </td>
     <td>
       <strong>Data Engineer Intern (Code LLM) @ Zhipu AI (智谱AI)</strong><br>
@@ -108,10 +108,6 @@
     </td>
     <td>
       <strong>Part-time Research Consultant @ World Quant (世坤量化)</strong><br>
-      <em>(Date)</em>
-      <ul>
-        <li><em>(Briefly describe your responsibilities here, e.g., "Developed and backtested quantitative trading strategies.")</em></li>
-      </ul>
     </td>
   </tr>
 </table>
@@ -130,7 +126,7 @@
     </ul>
   </li>
   <li>
-    <strong>🎬 End-to-End Movie Recommendation System</strong>
+    <strong>🎬 Movie Recommendation System</strong>
     <ul>
       <li>Architected a full-stack recommendation system with an offline engine using <strong>Apache Spark</strong> and an online engine with <strong>Kafka & Spark Streaming</strong>.</li>
     </ul>
